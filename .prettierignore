@@ -1,0 +1,105 @@
+.vscode/
+.idea/
+.DS_Store
+
+node_modules/
+dist/
+build/
+coverage/
+.cache/
+.out/
+out/
+public/
+.next/
+.nuxt/
+.svelte-kit/
+.parcel-cache/
+
+# Generated / minified files
+*.min.js
+*.bundle.js
+*.map
+*.log
+
+# Binary & media files
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.webp
+*.avif
+*.ico
+*.svg
+*.mp4
+*.mp3
+*.ogg
+*.wav
+*.zip
+*.tar
+*.gz
+*.7z
+*.exe
+*.dll
+
+# Environment and secrets
+*.env
+.env
+.env.*
+
+# Lockfiles / package manager caches
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+```// filepath: c:\Users\Subhan\Documents\GitHub\stackvid\.prettierignore
+.vscode/
+.idea/
+.DS_Store
+
+node_modules/
+dist/
+build/
+coverage/
+.cache/
+.out/
+out/
+public/
+.next/
+.nuxt/
+.svelte-kit/
+.parcel-cache/
+
+# Generated / minified files
+*.min.js
+*.bundle.js
+*.map
+*.log
+
+# Binary & media files
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.webp
+*.avif
+*.ico
+*.svg
+*.mp4
+*.mp3
+*.ogg
+*.wav
+*.zip
+*.tar
+*.gz
+*.7z
+*.exe
+*.dll
+
+# Environment and secrets
+*.env
+.env
+.env.*
+
+# Lockfiles / package manager caches
+package-lock.json
+yarn.lock
+pnpm-lock.yaml

@@ -1,0 +1,36 @@
+{
+  "name": "stackvid",
+  "version": "1.0.0",
+  "description": "A video streaming platform for developers (youtube for developers)",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "nodemon src/index.js",
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/subhan-f/stackvid.git"
+  },
+  "keywords": [
+    "developer",
+    "youtube",
+    "backend",
+    "nodejs"
+  ],
+  "author": "Subhan Farrakh",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/subhan-f/stackvid/issues"
+  },
+  "homepage": "https://github.com/subhan-f/stackvid#readme",
+  "devDependencies": {
+    "dotenv": "^17.2.3",
+    "nodemon": "^3.1.10",
+    "prettier": "^3.6.2"
+  },
+  "dependencies": {
+    "express": "^5.1.0",
+    "mongoose": "^8.19.0"
+  }
+}
